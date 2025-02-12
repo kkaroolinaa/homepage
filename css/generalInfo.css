@@ -1,0 +1,14 @@
+  .generalInfo_subHeader {
+    margin: 10px;
+    font-family: "Afacad Flux", serif;
+    color: rgb(4, 61, 126);
+    text-align: center;
+  }
+  
+  .generalInfo_info {
+    font-family: "Afacad Flux", serif;
+    margin: 10px;
+    line-height: 2;
+    text-align: center;
+  }
+  

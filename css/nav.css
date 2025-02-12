@@ -1,0 +1,33 @@
+.afacad-flux-bold {
+  font-family: "Afacad Flux", serif;
+  font-optical-sizing: auto;
+  font-weight: 700; /* Bold weight */
+  font-style: normal;
+  font-variation-settings: 
+    "slnt" 0;
+}
+
+
+.nav_listItem {
+    list-style: none;
+    text-align: center;
+  }
+  
+  .nav_link {
+    color: rgb(0, 0, 72);
+    text-decoration: none;
+  }
+  
+  .nav_link:focus {
+    outline: 2px solid currentColor;
+  }
+  
+  .nav_link:hover {
+    color: black;
+    border-bottom: 1px solid;
+    outline: none;
+  }
+  
+  .nav_link:active {
+    color: white;
+  }

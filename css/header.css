@@ -1,0 +1,17 @@
+.afacad-flux-bold {
+    font-family: "Afacad Flux", serif;
+    font-optical-sizing: auto;
+    font-weight: 700; /* Bold weight */
+    font-style: normal;
+    font-variation-settings: 
+      "slnt" 0;
+  }
+
+.header_headline {
+    margin: 10px;
+    font-family: "Afacad Flux", serif;
+    background-color: #E0B0FF;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    text-align: center;
+  }

@@ -1,0 +1,36 @@
+.afacad-flux-bold {
+  font-family: "Afacad Flux", serif;
+  font-optical-sizing: auto;
+  font-weight: 700; /* Bold weight */
+  font-style: normal;
+  font-variation-settings: 
+    "slnt" 0;
+}
+
+
+.table {
+  border-collapse: collapse;
+    font-family: "Afacad Flux", serif;
+    margin: 50px 50px;
+
+  }
+  
+  .table__cell {
+    border: 1px solid rgb(4, 61, 126);
+    text-align: center;
+    padding: 10px;
+    width: 150px;
+    font-family: "Afacad Flux", serif;
+  }
+  
+  .table__cell--headerRow {
+    color: rgb(4, 61, 126);
+    font-family: "Afacad Flux", serif;
+  }
+  
+  .table_caption {
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Afacad-Flux', sans-serif;
+  }

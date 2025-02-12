@@ -1,0 +1,21 @@
+.geography_subHeader {
+    margin: 10px;
+    font-family: "Afacad Flux", serif;
+    color: rgb(4, 61, 126);
+  }
+  
+  .geography_subHeader--nocolor {
+    font-family: "Afacad Flux", serif;
+    margin: 10px;
+  }
+  
+  .geography_info {
+    margin: 10px;
+    font-family: "Afacad Flux", serif;
+    line-height: 2;
+  }
+  
+  .geography_climate {
+    font-family: "Afacad Flux", serif;
+    color: rgb(4, 61, 126);
+  }

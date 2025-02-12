@@ -1,0 +1,26 @@
+.attractions_subHeader {
+    margin: 10px;
+    font-family: "Afacad Flux", serif;
+    color: rgb(4, 61, 126);
+  }
+  
+  .attractions_Korea {
+    margin: 10px;
+    font-family: "Afacad Flux", serif;
+    color: rgb(0, 0, 72);
+  }
+  
+  .attractions_picture_palacegyeongbokgung {
+    box-shadow: -3px 9px 24px 0px rgba(0, 0, 72);
+    max-width: 450px;
+  }
+  
+  .attractions_info {
+    line-height: 2;
+    font-family: "Afacad Flux", serif;
+    margin-top: 30px;
+  }
+
+  .attractions_picture_jeju {
+    max-width: 450px;
+  }
